@@ -1,0 +1,12 @@
+*.jpg
+*.JPG
+*.pickle
+
+dataset/*
+!dataset/.gitkeep
+
+models/*
+!models/.gitkeep
+
+.vscode/
+myvenv/
